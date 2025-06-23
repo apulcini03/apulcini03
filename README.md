@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Alberto Pulcini!
 
-🎓 Studente di Informatica appassionato di **sviluppo software**, **database**, **sicurezza informatica** e **intelligenza artificiale**.
+🎓 Studente di Informatica presso l'Università La Sapienza di Roma, appassionato di **sviluppo software**, **database**, **sicurezza informatica** e **intelligenza artificiale**.
 
 ---
 
